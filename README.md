@@ -54,18 +54,21 @@
 
 
 ### 🚀 **Contribution Activity**  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravindrasinghh&theme=react-dark)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravindrasinghh&theme=react-dark) 
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ---
 
-⚡️ **Fun Fact:** I love discovering new DevOps tools and cloud hacks!  
+⚡️ **Fun Fact:** 
 
+- I love discovering new DevOps tools and cloud hacks!  
 - 🏆 Built Kubernetes clusters for AI & ML workloads  
 - 🌐 Managed multi-cloud setups with Azure & AWS  
-- 💬 *"Ask me about DevOps, cloud optimization, or why Terraform is my best friend."*  
+ 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 
 🎯 **Let's build the cloud, one container at a time!** 🐳 ☁️ 🔍  
 
