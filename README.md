@@ -4,14 +4,7 @@
 🎤 *Cloud DJ spinning beats with containers & pipelines* 🎧
 
 ---
-🎯 **My Tech Playground 🎮**  
- ⢀⣴⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⡆
- ➡️ Kubernetes Wrangler 🛠️ 
- ➡️ Terraform Sorcerer 🔮
- ➡️ CI/CD Pipeline Architect 🚛
- ➡️ Cloud Whisperer (AWS/Azure/GCP) 🌩️
- ➡️ Python Automator 🐍
- ⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿
+
 
 🛠️ **Tech Arsenal:**  
 
@@ -28,26 +21,32 @@
 - 🖥️ **Languages:** Python | Bash | Go  
 - 🛑 **Monitoring:** New Relic | Prometheus | Datadog  
 
-📖 **What I'm About:**  
 
-- 🌱 Exploring new CLI tools and DevOps trends  
-- 🛠️ Building scalable, secure infrastructure  
-- 🧠 Always learning and evolving  
+🎯 What I’m Cooking Up 🍳:
 
-🔗 **Let's Connect:** 
+🌐 Cloud Architectures that scale faster than memes go viral
+⚙️ CI/CD pipelines smoother than your morning espresso ☕
+🔐 Security? More locked down than Area 51 👽
+
+🌐 Let’s Connect! 🌍
+🎤 Drop a beat or a message! 🎶 
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome)](https://cloudynamics.co.in/)  
 
 [![Email](https://img.shields.io/badge/Email-Shoot%20me%20a%20mail-blue?style=for-the-badge&logo=gmail)](mailto:ravindra.vermanhr@gmail.com) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ravindra-verma-b16a494b/)  
+
+💬 Ask me about Kubernetes, Terraform, or that time I broke production and fixed it like a pro! 🤓
  
 
 🏆 **GitHub Trophies** 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ravindrasinghh&theme=darkhub&no-frame=true&row=1&column=7)  
 
+🎯 Streaks, Because I'm On Fire 🔥
 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindrasinghh&theme=neon-palenight&hide_border=true&border_radius=15" /> </p>
 
 
 ### 🚀 **Contribution Activity**  
