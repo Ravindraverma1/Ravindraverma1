@@ -46,6 +46,15 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ravindrasinghh&theme=darkhub&no-frame=true&row=1&column=7)  
 
+### 🚀 **GitHub Profile Insights**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravindraverma&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindraverma&layout=compact&theme=tokyonight)  
+
+### 🏆 **GitHub Achievements**  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ravindraverma&theme=darkhub&no-frame=true&margin-w=15)
+
 ---
 
 🎯 Streaks, Because I'm On Fire 🔥
