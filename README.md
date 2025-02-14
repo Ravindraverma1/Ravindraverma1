@@ -21,6 +21,7 @@
 - 🖥️ **Languages:** Python | Bash | Go  
 - 🛑 **Monitoring:** New Relic | Prometheus | Datadog  
 
+---
 
 🎯 What I’m Cooking Up 🍳:
 
