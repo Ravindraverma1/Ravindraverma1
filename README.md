@@ -38,16 +38,6 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ravindrasinghh&theme=darkhub&no-frame=true&row=1&column=7)  
 
-### ⚡️ **GitHub Stats & Activity**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindrasinghh&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrasinghh&layout=compact&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravindrasinghh&theme=onedark&margin-w=15&no-frame=true" />
-</p>
 
 
 
