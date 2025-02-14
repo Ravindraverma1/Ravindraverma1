@@ -20,13 +20,6 @@
 🔗 **Let's Connect:**  
 - 🌐 [Website](https://cloudynamics.co.in/)  
 - 📧 [Ravindra.vermamhr@gmail.com](mailto:Ravindra.vermamhr@gmail.com)  
-  
-
----
-
-### 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravindrasinghh&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrasinghh&layout=compact&theme=radical)  
 
 🏆 **GitHub Trophies**  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ravindrasinghh&theme=darkhub&no-frame=true&row=1&column=7)  
