@@ -25,9 +25,11 @@
 
 🎯 What I’m Cooking Up 🍳:
 
-🌐 Cloud Architectures that scale faster than memes go viral
-⚙️ CI/CD pipelines smoother than your morning espresso ☕
-🔐 Security? More locked down than Area 51 👽
+- 🌐 Cloud Architectures that scale faster than memes go viral
+- ⚙️ CI/CD pipelines smoother than your morning espresso ☕
+- 🔐 Security? More locked down than Area 51 👽
+
+---
 
 🌐 Let’s Connect! 🌍
 🎤 Drop a beat or a message! 🎶 
