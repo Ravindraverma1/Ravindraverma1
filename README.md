@@ -27,3 +27,6 @@
 ---
 
 ⚡️ **Fun Fact:** I love discovering new DevOps tools and cloud hacks!  
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
