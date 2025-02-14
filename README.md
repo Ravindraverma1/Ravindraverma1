@@ -1,8 +1,8 @@
 # 🌟 Hi there, I'm Ravindra 👋  
 
-🚀 **DevOps Engineer | Cloud Enthusiast | Automation Junkie**  
+🚀 **DevOps Engineer | Cloud Enthusiast | Automation Junkie** 
+*🔥 "Burn yourself to get the best version of yourself."* 
 
-🔥 *"You have to burn yourself to get the best version of yourself."*  
 
 🛠️ **Tech Arsenal:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
@@ -12,21 +12,55 @@
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
 
+### 🛠️ **Tech Playground** 🧩  
+- ☁️ **Cloud:** AWS | Azure | GCP  
+- 🛠️ **Tools:** Docker | Kubernetes | Terraform | ArgoCD | Jenkins  
+- 🖥️ **Languages:** Python | Bash | Go  
+- 🛑 **Monitoring:** New Relic | Prometheus | Datadog  
+
 📖 **What I'm About:**  
 - 🌱 Exploring new CLI tools and DevOps trends  
 - 🛠️ Building scalable, secure infrastructure  
 - 🧠 Always learning and evolving  
 
 🔗 **Let's Connect:**  
-- 🌐 [Website](https://cloudynamics.co.in/)  
-- 📧 [Ravindra.vermamhr@gmail.com](mailto:Ravindra.vermamhr@gmail.com)  
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome)](https://cloudynamics.co.in/)  
+[![Email](https://img.shields.io/badge/Email-Shoot%20me%20a%20mail-blue?style=for-the-badge&logo=gmail)](mailto:ravindra.vermanhr@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ravindra-verma-b16a494b/)  
+ 
 
 🏆 **GitHub Trophies**  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ravindrasinghh&theme=darkhub&no-frame=true&row=1&column=7)  
+
+### ⚡️ **GitHub Stats & Activity**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindrasinghh&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrasinghh&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravindrasinghh&theme=onedark&margin-w=15&no-frame=true" />
+</p>
+
+### 🔥 **Streak Stats**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindrasinghh&theme=highcontrast" />
+</p>
+
+### 🚀 **Contribution Activity**  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravindrasinghh&theme=react-dark)  
 
 ---
 
 ⚡️ **Fun Fact:** I love discovering new DevOps tools and cloud hacks!  
 
+- 🏆 Built Kubernetes clusters for AI & ML workloads  
+- 🌐 Managed multi-cloud setups with Azure & AWS  
+- 💬 *"Ask me about DevOps, cloud optimization, or why Terraform is my best friend."*  
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+🎯 **Let's build the cloud, one container at a time!** 🐳 ☁️ 🔍  
 
