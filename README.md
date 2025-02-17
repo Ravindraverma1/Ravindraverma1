@@ -46,14 +46,6 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ravindrasinghh&theme=darkhub&no-frame=true&row=1&column=7)  
 
-### 🚀 **GitHub Profile Insights**  
-
-
----
-
-🎯 Streaks, Because I'm On Fire 🔥
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindrasinghh&theme=neon-palenight&hide_border=true&border_radius=15" /> </p>
 
 
 ### 🚀 **Contribution Activity**  
