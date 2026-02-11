@@ -112,10 +112,6 @@ Programming:
 - AWS Solutions Architect Professional
 - Certified Kubernetes Administrator (CKA)
 - HashiCorp Terraform Associate
-- [Add your actual certifications]
-
-## 📝 Technical Blog
-[Link to your blog if you have one, or create one on dev.to or medium]
 
 
 ---
