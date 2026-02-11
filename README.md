@@ -42,9 +42,9 @@
 
 ---
  
-🏆 **GitHub Trophies** 
+## 🌟 Open Source Contributions
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ravindrasinghh&theme=darkhub&no-frame=true&row=1&column=7)  
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Added Thanos to monitoring tools
 
 
 ## 🎯 What Sets Me Apart
@@ -112,6 +112,7 @@ Programming:
 - AWS Solutions Architect Professional
 - Certified Kubernetes Administrator (CKA)
 - HashiCorp Terraform Associate
+
 
 
 ---
